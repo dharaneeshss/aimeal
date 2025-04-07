@@ -1,0 +1,21 @@
+age,height,weight,activity_level,region,diet_plan
+25,170,65,Moderate,North India,Plan A
+30,165,70,Low,South India,Plan B
+22,175,80,High,East India,Plan C
+35,160,60,Low,West India,Plan A
+40,168,75,Moderate,Central India,Plan B
+28,172,68,High,North India,Plan C
+45,158,85,Low,South India,Plan B
+32,180,90,Moderate,West India,Plan C
+27,165,55,High,East India,Plan A
+50,170,95,Low,Central India,Plan B
+29,175,77,Moderate,North India,Plan C
+33,160,63,High,South India,Plan A
+26,167,70,Moderate,East India,Plan B
+37,170,85,Low,West India,Plan C
+42,172,78,Moderate,Central India,Plan A
+24,165,60,High,North India,Plan B
+38,180,88,Low,South India,Plan C
+31,160,68,Moderate,East India,Plan A
+35,175,82,High,West India,Plan B
+41,168,74,Low,Central India,Plan C
