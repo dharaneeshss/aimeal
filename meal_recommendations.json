@@ -1,0 +1,38 @@
+{
+  "Balanced Diet": {
+    "breakfast": ["Oats with milk", "Vegetable poha", "Idli sambar"],
+    "lunch": ["Dal rice", "Chapati with sabzi", "Curd rice"],
+    "dinner": ["Vegetable khichdi", "Paneer curry with roti", "Mixed veg pulao"],
+    "snacks": ["Fruit salad", "Sprouts chaat", "Roasted chana"],
+    "macros": {
+      "calories": 2000,
+      "protein": 70,
+      "carbs": 250,
+      "fats": 60
+    }
+  },
+  "Low Carb": {
+    "breakfast": ["Egg bhurji", "Paneer tikka", "Greek yogurt"],
+    "lunch": ["Grilled chicken salad", "Mixed veg curry", "Fish curry"],
+    "dinner": ["Stir-fried tofu", "Chicken soup", "Saag paneer"],
+    "snacks": ["Nuts", "Cheese cubes", "Boiled eggs"],
+    "macros": {
+      "calories": 1800,
+      "protein": 90,
+      "carbs": 120,
+      "fats": 80
+    }
+  },
+  "High Protein": {
+    "breakfast": ["Protein shake", "Moong dal chilla", "Egg omelette"],
+    "lunch": ["Rajma rice", "Grilled fish", "Chicken breast"],
+    "dinner": ["Paneer bhurji", "Soybean curry", "Lentil soup"],
+    "snacks": ["Roasted soy nuts", "Protein bar", "Cottage cheese"],
+    "macros": {
+      "calories": 2200,
+      "protein": 120,
+      "carbs": 200,
+      "fats": 70
+    }
+  }
+}

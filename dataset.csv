@@ -1,21 +1,201 @@
-age,height,weight,activity_level,region,diet_plan
-25,170,65,Moderate,North India,Plan A
-30,165,70,Low,South India,Plan B
-22,175,80,High,East India,Plan C
-35,160,60,Low,West India,Plan A
-40,168,75,Moderate,Central India,Plan B
-28,172,68,High,North India,Plan C
-45,158,85,Low,South India,Plan B
-32,180,90,Moderate,West India,Plan C
-27,165,55,High,East India,Plan A
-50,170,95,Low,Central India,Plan B
-29,175,77,Moderate,North India,Plan C
-33,160,63,High,South India,Plan A
-26,167,70,Moderate,East India,Plan B
-37,170,85,Low,West India,Plan C
-42,172,78,Moderate,Central India,Plan A
-24,165,60,High,North India,Plan B
-38,180,88,Low,South India,Plan C
-31,160,68,Moderate,East India,Plan A
-35,175,82,High,West India,Plan B
-41,168,74,Low,Central India,Plan C
+age	height	weight	activity_level	region	diet_plan
+26	177	89	Low	Central India	Plan C
+39	161	71	High	Central India	Plan A
+48	162	82	High	South India	Plan C
+34	180	84	Low	South India	Plan C
+30	164	83	Low	East India	Plan A
+27	170	60	Low	North India	Plan B
+48	172	89	High	Central India	Plan B
+40	168	91	Low	North India	Plan B
+26	161	78	High	North India	Plan A
+45	170	83	Moderate	East India	Plan C
+38	164	85	High	Central India	Plan B
+42	176	89	High	Central India	Plan B
+30	179	87	Moderate	West India	Plan A
+30	159	75	High	North India	Plan B
+43	167	86	Low	North India	Plan A
+40	170	77	Low	South India	Plan C
+23	182	87	High	West India	Plan A
+27	178	57	Low	South India	Plan A
+43	163	72	High	South India	Plan A
+22	169	79	Low	South India	Plan A
+41	169	85	Low	East India	Plan C
+40	177	57	High	East India	Plan C
+21	168	94	Low	South India	Plan B
+43	180	78	High	West India	Plan C
+31	182	86	Low	North India	Plan C
+49	164	76	Low	West India	Plan B
+25	158	77	Moderate	Central India	Plan C
+21	158	56	Moderate	East India	Plan A
+47	182	81	High	North India	Plan A
+40	182	56	Moderate	North India	Plan B
+20	177	80	High	Central India	Plan B
+31	170	71	Moderate	Central India	Plan B
+45	166	94	Low	South India	Plan A
+41	160	87	High	East India	Plan C
+48	164	63	High	East India	Plan A
+31	163	93	Low	West India	Plan B
+44	165	83	High	South India	Plan C
+36	166	80	High	South India	Plan C
+46	162	89	Moderate	South India	Plan A
+46	158	79	High	South India	Plan B
+50	176	78	Low	East India	Plan A
+29	167	67	Moderate	East India	Plan C
+47	169	61	Moderate	South India	Plan A
+47	181	90	Low	West India	Plan A
+35	172	74	Low	North India	Plan B
+34	179	55	Moderate	North India	Plan B
+49	181	62	High	West India	Plan C
+49	166	70	Moderate	South India	Plan A
+34	177	68	Low	East India	Plan A
+49	174	66	Moderate	North India	Plan A
+38	174	77	Low	Central India	Plan C
+31	177	69	Moderate	Central India	Plan C
+42	169	82	High	West India	Plan B
+39	164	88	Moderate	South India	Plan B
+44	159	56	Moderate	North India	Plan B
+22	160	86	Low	South India	Plan A
+24	174	77	Low	North India	Plan A
+38	162	76	Low	West India	Plan B
+26	174	79	Moderate	West India	Plan A
+40	181	76	High	Central India	Plan B
+28	174	76	Low	South India	Plan C
+26	174	60	Low	Central India	Plan B
+37	159	69	Moderate	South India	Plan C
+23	159	91	Low	Central India	Plan A
+44	179	87	High	East India	Plan B
+47	180	62	High	East India	Plan A
+33	162	59	Low	East India	Plan C
+37	158	93	Low	East India	Plan C
+45	158	58	Moderate	North India	Plan C
+28	176	60	High	East India	Plan A
+45	159	86	High	West India	Plan A
+40	178	84	Low	West India	Plan A
+21	169	89	Moderate	North India	Plan A
+39	163	94	High	East India	Plan C
+47	180	70	High	East India	Plan C
+34	161	67	Moderate	East India	Plan B
+47	180	84	Moderate	Central India	Plan B
+26	168	73	High	South India	Plan A
+31	181	71	High	Central India	Plan C
+48	174	73	Moderate	South India	Plan C
+27	163	82	High	East India	Plan C
+34	181	80	Low	East India	Plan B
+22	162	91	Low	Central India	Plan B
+33	177	80	Moderate	Central India	Plan C
+36	159	77	Moderate	South India	Plan C
+23	163	63	Moderate	West India	Plan C
+37	179	66	Low	South India	Plan B
+27	168	55	High	Central India	Plan C
+23	173	55	Low	Central India	Plan C
+21	173	88	High	North India	Plan A
+49	158	86	Low	Central India	Plan A
+25	166	79	High	North India	Plan B
+41	163	94	Low	West India	Plan C
+29	173	55	Moderate	South India	Plan C
+23	160	70	Low	South India	Plan A
+41	177	93	High	North India	Plan B
+48	161	59	Low	South India	Plan A
+50	176	76	Low	Central India	Plan A
+37	160	83	Low	East India	Plan A
+45	176	57	Moderate	North India	Plan A
+31	177	66	Low	South India	Plan C
+21	164	80	Moderate	North India	Plan C
+29	177	70	Moderate	North India	Plan A
+49	166	91	Low	East India	Plan B
+23	158	76	Low	Central India	Plan B
+33	165	83	Low	North India	Plan B
+50	164	68	High	South India	Plan B
+35	175	82	Low	West India	Plan A
+34	165	59	Moderate	North India	Plan C
+27	158	84	Low	North India	Plan B
+33	168	59	High	East India	Plan A
+42	182	66	Low	Central India	Plan B
+47	182	70	High	West India	Plan B
+44	175	80	High	South India	Plan A
+49	180	80	Low	West India	Plan C
+27	167	75	Moderate	South India	Plan C
+40	160	93	High	Central India	Plan A
+35	164	90	Low	South India	Plan C
+32	173	87	Low	East India	Plan A
+37	173	84	Moderate	East India	Plan A
+34	182	91	High	East India	Plan A
+40	177	77	High	East India	Plan C
+43	174	64	Low	West India	Plan A
+45	159	59	Low	Central India	Plan B
+44	158	90	Moderate	South India	Plan C
+47	173	88	Moderate	South India	Plan C
+47	169	85	High	East India	Plan C
+47	162	64	High	East India	Plan C
+32	162	73	Low	North India	Plan B
+28	180	86	High	Central India	Plan C
+48	166	55	Moderate	West India	Plan C
+34	166	59	Moderate	South India	Plan A
+32	160	58	Low	North India	Plan C
+20	176	70	Moderate	North India	Plan B
+44	173	78	Moderate	South India	Plan B
+26	173	70	Moderate	West India	Plan B
+28	160	56	Moderate	North India	Plan B
+43	177	82	Low	North India	Plan C
+20	181	86	Low	Central India	Plan C
+31	179	81	High	West India	Plan B
+27	181	74	Moderate	North India	Plan B
+43	158	78	High	West India	Plan C
+50	181	66	Low	South India	Plan B
+30	177	89	Low	East India	Plan A
+38	168	87	Low	North India	Plan B
+36	174	87	Low	Central India	Plan B
+27	165	91	Low	South India	Plan A
+22	161	66	Low	West India	Plan A
+22	163	57	Low	South India	Plan C
+20	165	55	Moderate	North India	Plan C
+46	177	87	High	West India	Plan A
+24	160	94	Low	East India	Plan A
+29	173	64	Moderate	South India	Plan C
+26	182	83	Moderate	North India	Plan B
+45	160	67	High	Central India	Plan A
+28	182	66	Low	West India	Plan C
+47	175	85	High	South India	Plan B
+26	171	56	Low	South India	Plan A
+28	175	89	Moderate	East India	Plan B
+27	159	77	Moderate	East India	Plan C
+31	179	71	Moderate	Central India	Plan A
+21	160	80	Moderate	Central India	Plan B
+20	173	62	High	North India	Plan A
+35	166	83	Low	North India	Plan B
+42	161	80	Low	Central India	Plan C
+42	158	64	High	Central India	Plan C
+49	161	80	Low	West India	Plan A
+43	158	88	Moderate	East India	Plan B
+24	171	61	Low	North India	Plan A
+22	178	58	Moderate	East India	Plan A
+31	173	65	High	East India	Plan B
+27	177	83	Low	Central India	Plan B
+41	181	90	High	West India	Plan B
+46	165	79	Low	South India	Plan C
+22	164	75	Moderate	West India	Plan A
+20	160	90	High	West India	Plan A
+22	174	64	Low	East India	Plan C
+24	158	91	Moderate	West India	Plan B
+34	173	63	High	North India	Plan C
+33	169	78	High	East India	Plan C
+22	176	89	Low	North India	Plan C
+20	179	89	Low	South India	Plan A
+24	180	90	Low	East India	Plan C
+45	179	72	Moderate	South India	Plan A
+42	171	93	Low	East India	Plan A
+50	163	86	High	Central India	Plan A
+33	163	78	High	West India	Plan B
+26	170	77	Low	Central India	Plan A
+46	176	86	Low	South India	Plan A
+28	179	91	High	West India	Plan B
+34	165	66	Moderate	East India	Plan A
+34	159	67	Low	West India	Plan C
+45	178	77	Low	North India	Plan C
+29	158	79	High	West India	Plan A
+47	172	89	Low	North India	Plan B
+32	158	84	Moderate	West India	Plan C
+38	162	71	High	North India	Plan B
+50	173	74	Low	South India	Plan B
+26	176	79	High	Central India	Plan C
+36	161	76	Low	East India	Plan B
